@@ -1,0 +1,2 @@
+# CiGRUB
+My GRUB configuration 
